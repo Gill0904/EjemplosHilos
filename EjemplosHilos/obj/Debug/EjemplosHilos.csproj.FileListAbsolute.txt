@@ -1,0 +1,10 @@
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\bin\Debug\EjemplosHilos.exe.config
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\bin\Debug\EjemplosHilos.exe
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\bin\Debug\EjemplosHilos.pdb
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.csprojAssemblyReference.cache
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.Form1.resources
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.Properties.Resources.resources
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.csproj.GenerateResource.cache
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.csproj.CoreCompileInputs.cache
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.exe
+C:\Users\luisi\source\repos\EjemplosHilos\EjemplosHilos\obj\Debug\EjemplosHilos.pdb
